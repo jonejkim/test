@@ -1,0 +1,4 @@
+this is a test of git commit
+1
+2
+3
