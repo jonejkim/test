@@ -1,4 +1,2 @@
 this is a test of git commit
-Hello
-Very Fascinating
-World!!!
+Jone
