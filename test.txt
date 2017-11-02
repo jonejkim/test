@@ -1,5 +1,3 @@
 this is a test of git commit
 Nhat
 Kim
-Dale
-Dupont
