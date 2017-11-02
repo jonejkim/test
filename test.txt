@@ -5,3 +5,5 @@ Jack
 Duan
 Paul
 Cheon
+Jim
+Raynor
