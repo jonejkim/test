@@ -3,3 +3,5 @@ Nhat
 Kim
 Paul
 Cheon
+Jim
+Raynor
